@@ -1,0 +1,2 @@
+# Echarts-baiduMap
+这是基于Echarts图表和百度地图进行数据的可视化展示，展示了上海园区的耗能情况
